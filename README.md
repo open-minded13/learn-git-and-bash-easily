@@ -15,8 +15,8 @@ Welcome to the Bash and Git Command Guide! This repository is designed for begin
 To get started, simply fork this repository to your GitHub account. You can then clone your fork to your local machine for a hands-on experience:
 
 ```bash
-git clone https://github.com/open-minded13/2024_Friendly_Guide_to_Git_and_Bash.git
-cd 2024_Friendly_Guide_to_Git_and_Bash
+git clone https://github.com/open-minded13/2024_Friendly_Git_and_Bash_Exercise_Sheet.git
+cd 2024_Friendly_Git_and_Bash_Exercise_Sheet
 ```
 
 ## Contributing
