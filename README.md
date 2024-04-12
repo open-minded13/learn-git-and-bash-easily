@@ -4,11 +4,11 @@ Welcome to the Bash and Git Command Guide! This repository is designed for begin
 
 ## What's Inside?
 
-- **Bash Usage Note.md**: Dive into the world of Bash with our comprehensive guide. It includes explanations, usage examples, and practice exercises for common Bash commands. Perfect for those starting or looking to refine their command line skills. [View Bash Guide](Bash%20Usage%20Note.md)
+- **Bash Usage Note.md**: Dive into the world of Bash with our comprehensive guide. It includes explanations, usage examples, and practice exercises for common Bash commands. Perfect for those starting or looking to refine their command line skills. 👉 Checkout: [View Bash Guide](Bash%20Usage%20Note.md)
 
-- **Git Usage Note.md**: Master the essentials of Git with detailed descriptions of key Git commands, their usage, and examples. This guide is essential for anyone who wants to learn how to manage versions of their projects efficiently. [View Git Guide](Git%20Usage%20Note.md)
+- **Git Usage Note.md**: Master the essentials of Git with detailed descriptions of key Git commands, their usage, and examples. This guide is essential for anyone who wants to learn how to manage versions of their projects efficiently. 👉 Checkout:[View Git Guide](Git%20Usage%20Note.md)
 
-- **Git Workflow Exercise.md**: Put your Git skills to test with our practical exercises. This hands-on guide walks you through a typical Git workflow, helping you understand how to manage a project with real-world scenarios. [View Git Workflow Exercises](Git%20Workflow%20Exercise.md)
+- **Git Workflow Exercise.md**: Put your Git skills to test with our practical exercises. This hands-on guide walks you through a typical Git workflow, helping you understand how to manage a project with real-world scenarios. 👉 Checkout:[View Git Workflow Exercises](Git%20Workflow%20Exercise.md)
 
 ## Getting Started
 
