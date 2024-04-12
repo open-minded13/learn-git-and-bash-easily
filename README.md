@@ -1,4 +1,4 @@
-# Bash and Git Command Guide
+# A Friendly Guide to Git & Bash
 
 Welcome to the Bash and Git Command Guide! This repository is designed for beginners and intermediate users who want to improve their command line and version control skills using Bash and Git. Whether you're a student, a professional looking to sharpen your tools, or a hobbyist, these resources will guide you through from basics to more advanced concepts.
 
