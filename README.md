@@ -5,7 +5,7 @@ Welcome to the Bash and Git Command Guide! This repository is designed for begin
 ## Project Timeline
 
 - Start Date: July 7, 2024
-- Completion Date: Apr 12, 2024
+- Completion Date: Apr 12, 2024 ⛳️
 
 ## What's Inside?
 
