@@ -2,6 +2,11 @@
 
 Welcome to the Bash and Git Command Guide! This repository is designed for beginners and intermediate users who want to improve their command line and version control skills using Bash and Git. Whether you're a student, a professional looking to sharpen your tools, or a hobbyist, these resources will guide you through from basics to more advanced concepts.
 
+## Project Timeline
+
+- Start Date: July 7, 2024
+- Completion Date: Apr 12, 2024
+
 ## What's Inside?
 
 - [**Bash Usage Note.md**](Bash%20Usage%20Note.md): Dive into the world of Bash with our comprehensive guide. It includes explanations, usage examples, and practice exercises for common Bash commands. Perfect for those starting or looking to refine their command line skills.
